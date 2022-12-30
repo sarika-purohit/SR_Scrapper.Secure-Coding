@@ -12,7 +12,7 @@ It's compatible with python 3.
 
 - Install latest version from git repository using pip:
 ```bash
-$ pip install git+https://github.com/alirezamika/autoscraper.git
+$ pip install git+https://github.com/sarika-purohit/SR_Scrapper.Secure-Coding.git
 ```
 
 - Install from PyPI:
@@ -107,7 +107,7 @@ scraper.get_result_exact('https://finance.yahoo.com/quote/MSFT/')
 ```python
 from autoscraper import AutoScraper
 
-url = 'https://github.com/alirezamika/autoscraper'
+url = 'https://github.com/sarika-purohit/SR_Scrapper.Secure-Coding'
 
 wanted_list = ['A Smart, Automatic, Fast and Lightweight Web Scraper for Python', '2.5k', 'https://github.com/alirezamika/autoscraper/issues']
 
@@ -133,4 +133,4 @@ And to load:
 scraper.load('yahoo-finance')
 ```
 
-#### Happy Coding  ♥️
+#### Tech Army  🔥❤️‍🔥
